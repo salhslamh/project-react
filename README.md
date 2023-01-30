@@ -4,8 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+![p1](https://user-images.githubusercontent.com/117013960/215539884-54cfe969-df0f-4d7f-a415-5d8428a9da80.png)
 
-![Alt text](../%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202023-01-30%20155922.png)
+![צילום מסך 2023-01-30 184412](https://user-images.githubusercontent.com/117013960/215540449-0b5b8ed9-b07f-4788-9e13-8bd253c40072.png)
+
+![צילום מסך 2023-01-30 184453](https://user-images.githubusercontent.com/117013960/215540470-f837e10d-05c9-4ccc-9d65-081322ab719e.png)
 
 
 In the project directory, you can run:
